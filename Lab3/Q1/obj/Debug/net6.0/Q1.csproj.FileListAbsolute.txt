@@ -1,0 +1,14 @@
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\bin\Debug\net6.0\Q1.exe
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\bin\Debug\net6.0\Q1.deps.json
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\bin\Debug\net6.0\Q1.runtimeconfig.json
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\bin\Debug\net6.0\Q1.dll
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\bin\Debug\net6.0\Q1.pdb
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\obj\Debug\net6.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\obj\Debug\net6.0\Q1.AssemblyInfoInputs.cache
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\obj\Debug\net6.0\Q1.AssemblyInfo.cs
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\obj\Debug\net6.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\obj\Debug\net6.0\Q1.dll
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\obj\Debug\net6.0\refint\Q1.dll
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\obj\Debug\net6.0\Q1.pdb
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\obj\Debug\net6.0\Q1.genruntimeconfig.cache
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\Q1\obj\Debug\net6.0\ref\Q1.dll

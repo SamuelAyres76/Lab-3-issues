@@ -1,0 +1,14 @@
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\bin\Debug\net6.0\test_del.exe
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\bin\Debug\net6.0\test_del.deps.json
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\bin\Debug\net6.0\test_del.runtimeconfig.json
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\bin\Debug\net6.0\test_del.dll
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\bin\Debug\net6.0\test_del.pdb
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\obj\Debug\net6.0\test_del.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\obj\Debug\net6.0\test_del.AssemblyInfoInputs.cache
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\obj\Debug\net6.0\test_del.AssemblyInfo.cs
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\obj\Debug\net6.0\test_del.csproj.CoreCompileInputs.cache
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\obj\Debug\net6.0\test_del.dll
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\obj\Debug\net6.0\refint\test_del.dll
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\obj\Debug\net6.0\test_del.pdb
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\obj\Debug\net6.0\test_del.genruntimeconfig.cache
+C:\Users\lorca\OneDrive - Atlantic TU\Year2Semester1\Object Orientated Programming\Lab3\test_del\obj\Debug\net6.0\ref\test_del.dll
